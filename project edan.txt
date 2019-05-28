@@ -1,0 +1,7 @@
+hungry=input("are you hungry?")
+if hungry--"yes":
+        print("eat pizza")
+        print("eat meatball")
+        print("eat burger")
+else:
+    print("do you homework")
